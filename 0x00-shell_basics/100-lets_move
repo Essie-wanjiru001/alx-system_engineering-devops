@@ -1,1 +1,2 @@
-VimCrypt~03!(sú#’P‡˜ŠÏ3âÉí™pTZä‡ÝþŸŽ8ž_á*÷mGÔ[Î°ËoÖÎ¦(óç\W
+#!/bin/bash
+mv [[:upper:]]* /tmp/u
